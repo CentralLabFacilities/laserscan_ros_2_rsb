@@ -1,4 +1,4 @@
-# laserscan_ros_2_rsb
+# Bridge ROS Laser Scan Topic to RSB
 This is a simple middleware bridge that converts laser scans from ros to rsb
 
 # USAGE
